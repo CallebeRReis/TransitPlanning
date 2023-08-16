@@ -1,0 +1,9 @@
+# ninja log v5
+0	316	1692150687957120020	CMakeFiles/transitSystem.dir/src/main.cpp.o	9f577d8b8bc7ae51
+317	407	1692150688045120491	bin/transitSystem	a6315f54e5ca5369
+0	8	0	CMakeFiles/run	bfe16b59ab46ab72
+0	8	0	/home/callebez/dev/Problemáticos/build/CMakeFiles/run	bfe16b59ab46ab72
+1	310	1692152194448314821	CMakeFiles/transitSystem.dir/src/main.cpp.o	9f577d8b8bc7ae51
+310	361	1692152194500324633	bin/transitSystem	a6315f54e5ca5369
+361	365	0	CMakeFiles/run	bfe16b59ab46ab72
+361	365	0	/home/callebez/dev/Problemáticos/build/CMakeFiles/run	bfe16b59ab46ab72

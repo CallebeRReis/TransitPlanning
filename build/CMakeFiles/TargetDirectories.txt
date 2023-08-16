@@ -1,0 +1,4 @@
+/home/callebez/dev/Problemáticos/build/CMakeFiles/transitSystem.dir
+/home/callebez/dev/Problemáticos/build/CMakeFiles/run.dir
+/home/callebez/dev/Problemáticos/build/CMakeFiles/edit_cache.dir
+/home/callebez/dev/Problemáticos/build/CMakeFiles/rebuild_cache.dir
